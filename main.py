@@ -2,9 +2,6 @@
 
     """
 
-##
-
-
 import pandas as pd
 import requests
 from githubdata import GithubData
@@ -111,20 +108,3 @@ def main() :
 ##
 if __name__ == "__main__" :
     main()
-
-##
-# noinspection PyUnreachableCode
-if False :
-
-    pass
-
-    ##
-
-
-    ##
-
-    ##
-
-##
-
-##
